@@ -1,0 +1,5 @@
+sku_id,current_stock_units,reorder_point,cost_per_unit
+SKU01,60,40,15.50
+SKU02,45,30,12.00
+SKU03,58,42,18.00
+SKU04,80,50,10.00
